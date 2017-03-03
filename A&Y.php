@@ -5,9 +5,7 @@
 <title>Ayurveda & Yoga Treatments</title>
 <link rel="stylesheet" type="text/css" href="style2.css" />
 <div class="header"><a href="#">
-  <img class="affix" src="images/Other/16176289_1188958657867721_932039921_n.png" 
-  alt="Insert Logo Here" name="Insert_logo" width="200" height="200" id="Insert_logo" 
-  style="background-color: #fff; display:block;" data-offset-top="200" /></a>
+ <?php include 'Logo.php'; ?>
 </head>
 
 <body background="IImages/Other/ey-red-yoga-woman2.jpg">
