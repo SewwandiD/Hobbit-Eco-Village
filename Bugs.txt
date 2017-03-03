@@ -1,0 +1,14 @@
+Bg Music not playing when inserting to the media folder
+
+Music.php/Vedio.php can't be included to Register.php file.
+
+Date picker not functioning well.
+
+FB Logging status functions are not working A&Y.php page.
+
+Need to remove downloade manager.
+
+can't insert Bg image, music to the Gallery
+
+There should be a back botton to the home in every page
+( Use Jquery buttons)
